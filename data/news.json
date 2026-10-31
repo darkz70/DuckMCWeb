@@ -1,0 +1,34 @@
+[
+  {
+    "id": "java-1-21-6",
+    "date": "2026-10-15",
+    "category": "java",
+    "title": "Вышел Java-релиз Minecraft 1.21.6",
+    "excerpt": "Обыкновенное обновление для Java-издания с исправлениями ошибок и улучшениями производительности.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-21-6-release"
+  },
+  {
+    "id": "snapshot-26w43a",
+    "date": "2026-10-28",
+    "category": "snapshot",
+    "title": "Снимок 26w43a для Java Edition",
+    "excerpt": "Новая тестовая сборка с экспериментальными функциями для следующего обновления.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-snapshot-26w43a"
+  },
+  {
+    "id": "bedrock-1-21-80",
+    "date": "2026-10-20",
+    "category": "bedrock",
+    "title": "Обновление Бедрока 1.21.80",
+    "excerpt": "Новая версия Bedrock Edition: исправления, новые возможности и работы над производительностью.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-1-21-80"
+  },
+  {
+    "id": "java-1-21-5",
+    "date": "2026-04-22",
+    "category": "java",
+    "title": "Релиз Minecraft Java 1.21.5",
+    "excerpt": "Обыкновенное обновление джава-версии с исправлениями ошибок.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-21-5-release"
+  }
+]
