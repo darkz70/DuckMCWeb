@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "name": "duckmcweb",
-  "routes": [
-    { "src": "/news", "dest": "/news.html" },
-    { "src": "/donate", "dest": "/donate.html" },
-    { "src": "/(.*)", "dest": "/$1" }
-  ]
-}
