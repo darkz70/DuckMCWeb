@@ -138,14 +138,14 @@ body::before {
   align-items: center;
   gap: 6px;
   font-weight: 800;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   letter-spacing: -0.5px;
   color: var(--text);
 }
 
 .logo-img {
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   border-radius: 5px;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -157,8 +157,8 @@ body::before {
 }
 
 .footer-brand .logo-img {
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   border-radius: 5px;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -606,8 +606,8 @@ body::before {
 }
 
 .footer-brand .logo {
-  font-size: 1.1rem;
-  margin-bottom: 8px;
+  font-size: 1rem;
+  margin-bottom: 6px;
   display: inline-flex;
   align-items: center;
   gap: 6px;
