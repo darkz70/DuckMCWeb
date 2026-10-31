@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bedrock-26-60",
+    "date": "2026-10-27",
+    "category": "bedrock",
+    "title": "Вышел релиз Minecraft Bedrock 26.60",
+    "excerpt": "Стабильное обновление Бедрока: нативная поддержка Nintendo Switch 2, серверы только через NetherNet и другие улучшения.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-26-60-release"
+  },
+  {
+    "id": "snapshot-26-4-snapshot-5",
+    "date": "2026-10-20",
+    "category": "snapshot",
+    "title": "Снимок Java 26.4 Snapshot 5",
+    "excerpt": "Пятый тестовый сбор 26.4: кирпичи из плотного льда, новые вариации блоков, новое достижение и звуки замерзших озёр.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-4-snapshot-5"
+  },
+  {
+    "id": "java-26-3-wilderness-bound",
+    "date": "2026-09-15",
+    "category": "java",
+    "title": "Вышел релиз Minecraft Java 26.3 — Wilderness Bound",
+    "excerpt": "Третий игровой дроп 2026: дымчатый лес, тополи, заброшенные лагеря, подушки и соломенные кровати.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-3-wilderness-bound-release"
+  },
+  {
+    "id": "snapshot-26-4-snapshot-3",
+    "date": "2026-10-06",
+    "category": "snapshot",
+    "title": "Снимок Java 26.4 Snapshot 3",
+    "excerpt": "Ледяные пещеры, сосульки, ледяные кристаллы, зомби-вариант Обморожение и эффект Заморозки.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-4-snapshot-3"
+  },
+  {
+    "id": "bedrock-26-52",
+    "date": "2026-09-25",
+    "category": "bedrock",
+    "title": "Обновление Minecraft Bedrock 26.52",
+    "excerpt": "Горячее исправление для Бедрока: исправления ошибок, стабильность и улучшения производительности.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-26-52"
+  },
+  {
+    "id": "java-26-2-chaos-cubed",
+    "date": "2026-07-20",
+    "category": "java",
+    "title": "Вышел релиз Minecraft Java 26.2 — Chaos Cubed",
+    "excerpt": "Второй игровой дроп 2026: пещеры из серы, куб серы и новые блоки construcción.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-2-chaos-cubed-release"
+  }
+]
