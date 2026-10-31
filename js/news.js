@@ -4,11 +4,13 @@
 const CATEGORY_LABELS = {
   java: "Java",
   snapshot: "Снимок",
+  bedrock: "Бедрок",
 };
 
 const CATEGORY_CLASSES = {
   java: "java",
   snapshot: "snapshot",
+  bedrock: "bedrock",
 };
 
 // Сортировка по дате: новые записи сначала
