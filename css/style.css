@@ -144,12 +144,15 @@ body::before {
 }
 
 .logo-img {
-  width: 12px;
-  height: 12px;
+  width: 12px !important;
+  height: 12px !important;
+  max-width: 12px !important;
+  max-height: 12px !important;
   border-radius: 5px;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.1);
   flex-shrink: 0;
+  display: block;
 }
 
 .logo-text {
@@ -157,12 +160,15 @@ body::before {
 }
 
 .footer-brand .logo-img {
-  width: 12px;
-  height: 12px;
+  width: 12px !important;
+  height: 12px !important;
+  max-width: 12px !important;
+  max-height: 12px !important;
   border-radius: 5px;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.1);
   flex-shrink: 0;
+  display: block;
 }
 
 .nav-links {
