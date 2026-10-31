@@ -136,17 +136,17 @@ body::before {
 .logo {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   letter-spacing: -0.5px;
   color: var(--text);
 }
 
 .logo-img {
-  width: 26px;
-  height: 26px;
-  border-radius: 8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
   object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.12);
   flex-shrink: 0;
