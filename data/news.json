@@ -1,50 +1,50 @@
 [
   {
-    "id": "java-1-26-release",
-    "date": "2026-11-05",
-    "category": "java",
-    "title": "Вышел релиз Minecraft Java 1.26",
-    "excerpt": "Обычное обновление Java Edition 26.x: новые блоки, мобы и улучшения производительности.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-26-release"
-  },
-  {
-    "id": "snapshot-26w44a",
-    "date": "2026-11-03",
-    "category": "snapshot",
-    "title": "Снимок 26w44a для Java Edition",
-    "excerpt": "Новая тестовая сборка серии 26.x с экспериментальными функциями.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-snapshot-26w44a"
-  },
-  {
-    "id": "snapshot-26w43a",
-    "date": "2026-10-28",
-    "category": "snapshot",
-    "title": "Снимок 26w43a для Java Edition",
-    "excerpt": "Тестовая сборка с экспериментальными функциями для следующего обновления.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-snapshot-26w43a"
-  },
-  {
-    "id": "bedrock-1-21-80",
-    "date": "2026-10-20",
+    "id": "bedrock-26-60",
+    "date": "2026-10-27",
     "category": "bedrock",
-    "title": "Обновление Minecraft Bedrock 1.21.80",
-    "excerpt": "Новая версия Бедрока: исправления ошибок, новые возможности и работа над производительностью.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-1-21-80"
+    "title": "Вышел релиз Minecraft Bedrock 26.60",
+    "excerpt": "Стабильное обновление Бедрока: нативная поддержка Nintendo Switch 2, серверы только через NetherNet и другие улучшения.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-26-60-release"
   },
   {
-    "id": "java-1-21-6",
-    "date": "2026-10-15",
-    "category": "java",
-    "title": "Вышел релиз Minecraft Java 1.21.6",
-    "excerpt": "Обычное обновление Java Edition с исправлениями ошибок и улучшениями производительности.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-21-6-release"
+    "id": "snapshot-26-4-snapshot-5",
+    "date": "2026-10-20",
+    "category": "snapshot",
+    "title": "Снимок Java 26.4 Snapshot 5",
+    "excerpt": "Пятый тестовый сбор 26.4: кирпичи из плотного льда, nuevas вариации блоков, новое достижение и звуки замерзших озёр.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-4-snapshot-5"
   },
   {
-    "id": "java-1-21-5",
-    "date": "2026-04-22",
+    "id": "java-26-3-wilderness-bound",
+    "date": "2026-09-15",
     "category": "java",
-    "title": "Вышел релиз Minecraft Java 1.21.5",
-    "excerpt": "Обычное обновление Java Edition с исправлениями ошибок.",
-    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-21-5-release"
+    "title": "Вышел релиз Minecraft Java 26.3 — Wilderness Bound",
+    "excerpt": "Третий игровой дроп 2026: дымчатый лес, тополи, заброшенные лагеря, подушки и соломенные кровати.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-3-wilderness-bound-release"
+  },
+  {
+    "id": "snapshot-26-4-snapshot-3",
+    "date": "2026-10-06",
+    "category": "snapshot",
+    "title": "Снимок Java 26.4 Snapshot 3",
+    "excerpt": "Ледяные пещеры, сосульки, ледяные кристаллы, зомби-вариант Обморожение и эффект Заморозки.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-4-snapshot-3"
+  },
+  {
+    "id": "bedrock-26-52",
+    "date": "2026-09-25",
+    "category": "bedrock",
+    "title": "Обновление Minecraft Bedrock 26.52",
+    "excerpt": "Горячее исправление для Бедрока: исправления ошибок, стабильность и улучшения производительности.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-bedrock-26-52"
+  },
+  {
+    "id": "java-26-2-chaos-cubed",
+    "date": "2026-07-20",
+    "category": "java",
+    "title": "Вышел релиз Minecraft Java 26.2 — Chaos Cubed",
+    "excerpt": "Второй игровой дроп 2026: пещеры из серы, куб серы и новые блоки construcción.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-26-2-chaos-cubed-release"
   }
 ]
