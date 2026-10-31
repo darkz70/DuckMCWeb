@@ -1,5 +1,21 @@
 [
   {
+    "id": "java-1-26",
+    "date": "2026-11-05",
+    "category": "java",
+    "title": "Вышел Java-релиз Minecraft 1.26",
+    "excerpt": "Обыкновенное обновление Java Edition 26.x с новыми блоками, мобами и улучшениями производительности.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-java-edition-1-26-release"
+  },
+  {
+    "id": "snapshot-26w44a",
+    "date": "2026-11-03",
+    "category": "snapshot",
+    "title": "Снимок 26w44a для Java Edition",
+    "excerpt": "Новая тестовая сборка серии 26.x с экспериментальными функциями для следующего обновления.",
+    "url": "https://www.minecraft.net/ru-ru/article/minecraft-snapshot-26w44a"
+  },
+  {
     "id": "java-1-21-6",
     "date": "2026-10-15",
     "category": "java",
