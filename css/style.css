@@ -136,9 +136,9 @@ body::before {
 .logo {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   font-weight: 800;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   letter-spacing: -0.5px;
   color: var(--text);
 }
