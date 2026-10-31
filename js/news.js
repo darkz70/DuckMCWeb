@@ -1,4 +1,5 @@
 // DuckMC — новости Minecraft (загружаются из data/news.json)
+// Новости сортируются по дате (новые первыми)
 
 const CATEGORY_LABELS = {
   java: "Java",
@@ -12,13 +13,19 @@ const CATEGORY_CLASSES = {
   bedrock: "bedrock",
 };
 
+// Сортировка по дате: новые записи сначала
+function sortNewsByDate(news) {
+  return [...news].sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
 async function loadNews() {
   try {
     const res = await fetch("data/news.json", { cache: "no-cache" });
     if (!res.ok) throw new Error("Не удалось загрузить новости");
     const news = await res.json();
-    renderNews(news);
-    renderHomeNews(news);
+    const sorted = sortNewsByDate(news);
+    renderNews(sorted);
+    renderHomeNews(sorted);
   } catch (err) {
     console.error(err);
     const grid = document.getElementById("newsGrid");
@@ -91,7 +98,7 @@ function renderHomeNews(news) {
       </div>
       <h3>${escapeHtml(item.title)}</h3>
       <p>${escapeHtml(item.excerpt)}</p>
-      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" class="read-more">Читать →</a>
+      <a href="news.html" class="read-more">Читать →</a>
     `;
     grid.appendChild(card);
   });
