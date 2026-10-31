@@ -144,16 +144,25 @@ body::before {
 }
 
 .logo-img {
-  width: 20px;
-  height: 20px;
-  border-radius: 6px;
+  width: 14px;
+  height: 14px;
+  border-radius: 5px;
   object-fit: cover;
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.1);
   flex-shrink: 0;
 }
 
 .logo-text {
   color: var(--accent);
+}
+
+.footer-brand .logo-img {
+  width: 14px;
+  height: 14px;
+  border-radius: 5px;
+  object-fit: cover;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
 }
 
 .nav-links {
@@ -597,9 +606,11 @@ body::before {
 }
 
 .footer-brand .logo {
-  font-size: 1.35rem;
-  margin-bottom: 10px;
-  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   color: var(--accent);
 }
 
